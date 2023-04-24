@@ -1,0 +1,2 @@
+# MagpieCoinStandard
+MagpieCoinStandard
